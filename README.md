@@ -1,3 +1,4 @@
+<img width="100%" src="https://pbs.twimg.com/profile_banners/1278086756999593985/1690959841/600x200">
 <div align=center>
   <h1 style="vertical-align: middle;">hii, I'm h-banii</h1>
   <a 

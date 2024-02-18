@@ -1,6 +1,10 @@
 name: Get data from AniList
 
 on:
+  push:
+    branches: [ "feat/anilist" ]
+  pull_request:
+    branches: [ "feat/anilist" ]
   workflow_dispatch:
 
 jobs:

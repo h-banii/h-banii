@@ -30,7 +30,9 @@ function main(filename, icon, text, color, width=400) {
 }
 
 const PATH="./assets/badge";
+const ICONS="./icons";
 
-main(`${PATH}/pixiv.svg`, `./icons/pixiv_mono.svg`, 'Pixiv', '#0096fa');
-main(`${PATH}/twitter.svg`, `./icons/twitter_mono.svg`, 'Twitter', '#1DA1F2');
-main(`${PATH}/osu.svg`, `./icons/osu_mono.svg`, 'osu!', '#ff7cbb');
+main(`${PATH}/pixiv.svg`, `${ICONS}/pixiv_mono.svg`, 'Pixiv', '#0096fa');
+main(`${PATH}/twitter.svg`, `${ICONS}/twitter_mono.svg`, 'Twitter', '#1DA1F2');
+main(`${PATH}/osu.svg`, `${ICONS}/osu_mono.svg`, 'osu!', '#ff7cbb');
+main(`${PATH}/anilist.svg`, `${ICONS}/anilist_mono.svg`, 'AniList', '#3577ff');

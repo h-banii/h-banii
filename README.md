@@ -12,5 +12,8 @@
   <a href="https://osu.ppy.sh/users/30697829">
     <img height=40 src="./assets/badge/osu.svg">
   </a>
+  <a href="https://anilist.co/user/hbanii/">
+    <img height=40 src="./assets/badge/anilist.svg">
+  </a>
 </div>
 <hr>

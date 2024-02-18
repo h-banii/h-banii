@@ -16,4 +16,3 @@
     <img height=40 src="./assets/badge/anilist.svg">
   </a>
 </div>
-<hr>

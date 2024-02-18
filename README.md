@@ -1,6 +1,6 @@
-<img width="100%" src="https://pbs.twimg.com/profile_banners/1278086756999593985/1690959841/600x200">
+<img src="https://github.com/h-banii/hypr-shader-preview/assets/121690516/92f9f9f6-573a-4ce0-9e12-ec68c9afcf27" width="100%"/>
 <div align=center>
-  <h1 style="vertical-align: middle;">hii, I'm h-banii</h1>
+  <hr>
   <a 
     href="https://www.pixiv.net/en/users/56018062"
   >
@@ -15,4 +15,7 @@
   <a href="https://anilist.co/user/hbanii/">
     <img height=40 src="./assets/badge/anilist.svg">
   </a>
+  <hr>
+  <h4>I like to draw, play the piano, watch anime and read manga~</h4>
+  <h1>Nice to meet you, I'm h-banii</h1>
 </div>

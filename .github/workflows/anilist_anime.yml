@@ -5,6 +5,7 @@ on:
     branches: [ "feat/anilist" ]
   pull_request:
     branches: [ "feat/anilist" ]
+
   workflow_dispatch:
 
 jobs:
@@ -18,6 +19,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_anilist: yes
+          plugin_anilist_user: hbanii
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching
           plugin_anilist_limit: 1

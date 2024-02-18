@@ -1,0 +1,19 @@
+name: Get data from AniList
+
+on:
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: anime list
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.anilist.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 1
